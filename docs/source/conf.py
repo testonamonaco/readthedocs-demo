@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'GDCGDCGDGCGD'
+copyright = '2023, GEOAP'
+author = 'Jorge Qirdahi'
 
 release = '0.1'
 version = '0.1.0'

@@ -3,6 +3,6 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "lumache"
-authors = [{name = "Graziella", email = "graziella@lumache"}]
+name = "GeoData Collector"
+authors = [{name = "Jorge lm9ard7", email = "cocha@mocha"},{name = "Bongola Bongola", email = "lamelame@gamegame"}]
 dynamic = ["version", "description"]
